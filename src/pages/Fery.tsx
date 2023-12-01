@@ -34,7 +34,7 @@ export default function Fery(){
                     <div className="basis-1/2">
                         <div className="bg-white shadow-[10px_8px_7px_0_rgba(0,0,0,.25)] w-3/4 mx-auto px-8 py-6 mt-4 mb-4">
                             <p className="font-['Lily_Script_One'] text-base">
-                                <span className="text-xl font-bold mb-4 block">Thank You</span>
+                                <span className="text-xl font-bold mb-4 block underline">Thank You</span>
                                 <span className="mb-4 block">
                                     Thank you for your prayers and support. Thank you for taking the time to attend my graduation ceremony. I apologize if during my studies I have made mistakes to you.
                                 </span>
@@ -52,7 +52,7 @@ export default function Fery(){
                     </div>
                     <div className="basis-1/2">
                         <div className="mt-4 md:pt-16 pt-8 bg-white w-3/4 m-auto md:h-[610px] h-[400px]">
-                            <div className="md:w-[380px] w-[230px] aspect-square bg-[#888888] m-auto mb-8">
+                            <div className="md:w-[380px] w-[230px] aspect-square bg-[#888888] m-auto mb-8 relative after:contents-[''] after:border-2 after:border-black after:absolute after:w-full after:aspect-[3/3.5] md:after:-top-5 after:-top-3 md:after:-right-5 after:-right-3 after:rounded-[24px]">
                                 <img src={profilFery} alt="" />
                             </div>
                             <p className="md:text-xl text-base font-[Poppins] font-light tracking-[4px] text-center mb-2">UNIVERSITAS ANDALAS</p>
