@@ -32,16 +32,16 @@ export default function Fery(){
                 <BackGround />
                 <div className="flex absolute w-full z-10 md:flex-row flex-col">
                     <div className="basis-1/2">
-                        <div className="bg-white shadow-[10px_8px_7px_0_rgba(0,0,0,.25)] w-3/4 mx-auto px-8 py-6 mt-4 mb-4">
+                        <div className="bg-white shadow-[10px_8px_7px_0_rgba(0,0,0,.25)] w-3/4 mx-auto px-8 py-5 mt-4 mb-4">
                             <p className="font-['Lily_Script_One'] text-base">
                                 <span className="text-xl font-bold mb-4 block underline">Thank You</span>
                                 <span className="mb-4 block">
                                     Thank you for your prayers and support. Thank you for taking the time to attend my graduation ceremony. I apologize if during my studies I have made mistakes to you.
                                 </span>
-                                Hopefully what you dream of can be realized!
+                                Hopefully what you dream of can be realized! And please attend my graduation party will be held on :
                             </p>
                         </div>
-                        <div className="bg-white shadow-[10px_8px_7px_0_rgba(0,0,0,.25)] w-3/4 m-auto md:px-8 px-4 py-6 font-['Poppins'] font-light">
+                        <div className="bg-white shadow-[10px_8px_7px_0_rgba(0,0,0,.25)] w-3/4 m-auto md:px-8 px-4 py-5 font-['Poppins'] font-light">
                             <p className="text-center">Saturday, 02 December 2023</p> 
                             <p className="text-center">Plaza MIPA, Universitas Andalas</p>
                             <p className="text-center">01:30 PM</p>
